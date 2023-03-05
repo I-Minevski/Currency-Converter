@@ -32,3 +32,6 @@ To install Selenium, run the following command in your terminal: pip install sel
 - The script saves the currency codes to a file called `codes.txt`. This file is created in the same directory as the script. If you run the `currency_codes.py` file multiple times, the codes will be appended to the end of the file. 
 
 - The script uses `implicitly_wait()` function to wait for the page to load. This function will wait for up to 5 seconds for the page to load before raising an exception. If the page takes longer to load, you may need to increase the wait time.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
