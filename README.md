@@ -17,7 +17,7 @@ To install Selenium, run the following command in your terminal: pip install sel
 
 1. Run the `currency_codes.py` file first to get a list of all the currency codes. This will create a `codes.txt` file with a list of all the available currencies and their codes.
 
-2. Run the `currency_converter.py` file and follow the prompts. Enter the currency you want to convert from, the currency you want to convert to, and the amount.
+2. Run the `main.py` file and follow the prompts. Enter the currency you want to convert from, the currency you want to convert to, and the amount.
 
 3. The script will then navigate to the XE currency converter website, input the currencies and amount, and retrieve the conversion result.
 
