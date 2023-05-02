@@ -9,7 +9,7 @@ print("""Welcome to this currency converter.
 Please always enter the currency by its code (e.g. USD or EUR).\n""")
 
 print("Here is a list of all currencies and their codes.")
-with open('codes.txt', 'r') as file:
+with open('D:\codene\Python\currency_converter\Currency-Converter\codes.txt', 'r') as file:
     for line in file.readlines():
         print(line)
 
